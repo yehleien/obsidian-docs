@@ -1,0 +1,13 @@
+title: Your Documentation Site
+tagline: Documentation and Notes
+description: Your site description
+url: 'https://yehleien.github.io'
+baseurl: '/obsidian-docs'
+github:
+  username: yehleien
+social:
+  name: Your Name
+  email: your.email@example.com
+  links:
+    - https://github.com/yehleien
+theme_mode: dark
